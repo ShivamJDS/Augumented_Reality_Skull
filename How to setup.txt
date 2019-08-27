@@ -1,0 +1,6 @@
+Download
+"shape_predictor_68_face_landmarks.dat"
+file from internet and paste it in same folder in which you have code
+.
+.
+it is 95 mb file
